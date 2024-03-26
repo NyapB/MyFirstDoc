@@ -1,2 +1,2 @@
 # MyFirstDoc
-To work on a document with a friend
+To work on a document with Brice Leke
